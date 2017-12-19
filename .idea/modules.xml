@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Weekend6.iml" filepath="$PROJECT_DIR$/Weekend6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weekend6Server/Weekend6Server.iml" filepath="$PROJECT_DIR$/Weekend6Server/Weekend6Server.iml" />
+      <module fileurl="file://C:\Users\chris\Documents\GitHub\Weekend6\Weekend6Server\app.iml" filepath="C:\Users\chris\Documents\GitHub\Weekend6\Weekend6Server\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekend6client2/weekend6client2.iml" filepath="$PROJECT_DIR$/weekend6client2/weekend6client2.iml" />
+    </modules>
+  </component>
+</project>
